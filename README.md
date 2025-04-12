@@ -10,3 +10,14 @@ Até agora, tive alguns aprendizados sobre Computação na nuvem, como:
       - Segurança;
       - Gerenciamento;
       - Principal, Custos.
+
+Conceito de PAAS / SAAS / IAAS, e suas responsabilidades:
+  - IAAS - INfraestrutura como Serviço
+      - A responsabilidade de configuração da infra é do cliente;
+  - PAAS - Plataforma como Serviço
+      - A responsabilidade de configuração é da Provedora;
+      - A responsabilidade de software é do cliente;
+  - SAAS - Software como serviço
+      - A responsabilidade de infra é do provedor;
+      - A responsabilidade de software é do provedor;
+      - A minha responsabilidade é de desenvolver apenas meus aplicativos.
